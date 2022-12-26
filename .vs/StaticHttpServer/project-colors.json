@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f3807d53-117c-456b-9e7f-a36399574a09": {
+      "ProjectGuid": "f3807d53-117c-456b-9e7f-a36399574a09",
+      "DisplayName": "StaticHttpServer",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
